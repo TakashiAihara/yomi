@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+  - apps/services/*
+  - packages/*
+
+onlyBuiltDependencies:
+  - msgpackr-extract
+  - sharp
